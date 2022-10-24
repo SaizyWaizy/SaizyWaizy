@@ -1,11 +1,10 @@
-- 👋 Hi, I’m @TheUbuntuNerd
-- 👀 I’m interested in OS and Linux Distributions
-- 🌱 I’m currently learning python and javascript
-- 💞️ I’m looking to collaborate on youtube videos related to Linux
-- 📫 How to reach me - Saizuo#5315 
-                      Discord
+# 💫 About Me:
+🔭 I’m currently working on NoError Studios<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with growing business <br>🌱 I’m currently learning about marketing <br>💬 Ask me about programming donuts<br>⚡ Fun fact : I share my birthday with 2 billionaire's. I should be next >_>
 
-<!---
-TheUbuntuNerd/TheUbuntuNerd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SaizyWaizy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SaizyWaizy&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaizyWaizy&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=SaizyWaizy&icon=0&color=0)](https://visitcount.itsvg.in)
